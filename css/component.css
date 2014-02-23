@@ -5,6 +5,7 @@
 
 .cbp-so-section {
 	margin-bottom: 15em;
+
 }
 
 /* Clear floats of children */
@@ -21,6 +22,12 @@
 /* Text styling */
 .cbp-so-section h2 {
 	font-size: 5em;
+	font-weight: 300;
+	line-height: 1;
+}
+
+.cbp-so-section h3 {
+	font-size: 4em;
 	font-weight: 300;
 	line-height: 1;
 }
