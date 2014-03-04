@@ -1,3 +1,17 @@
+footer {
+	text-align: center;
+	font-size: 12px;
+}
+
+#email {
+	width: 30%;
+	margin-left: 18%;
+}
+
+#email:hover {
+	opacity: 0.5;
+}
+
 .cbp-so-scroller {
 	margin-top: 3em;
 	overflow: hidden;
