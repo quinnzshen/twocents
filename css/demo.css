@@ -18,7 +18,7 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 .clearfix:before, .clearfix:after { content: " "; display: table; }
 .clearfix:after { clear: both; }
 
-body {
+body, footer {
     font-family: 'Lato', Calibri, Arial, sans-serif;
     color: #fff;
     background: #47a3da;
@@ -31,6 +31,10 @@ a {
 
 a:hover {
 	color: #000;
+}
+
+article h2 {
+	margin-top: 50%;
 }
 
 .container > header {
@@ -161,6 +165,20 @@ a:hover {
 }
 .bp-icon-prev:after {
 	content: "\e004";
+}
+
+footer {
+	text-align: center;
+	font-size: 12px;
+}
+
+#email {
+	width: 30%;
+	margin-left: 18%;
+}
+
+#email:hover {
+	opacity: 0.5;
 }
 
 @media screen and (max-width: 55em) {
