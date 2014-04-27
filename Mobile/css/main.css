@@ -10,7 +10,9 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-html,
+html {
+  height: 100%;
+}
 button,
 input,
 select,
@@ -21,6 +23,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    height: 100%;
 }
 
 a {
@@ -69,8 +72,16 @@ textarea {
 
 #pennies {
   width:50%;
+  height:25%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75%;
 }
 
+#penny-container {
+  height: 100%;
+  width: 100%
+}
 
 
 
