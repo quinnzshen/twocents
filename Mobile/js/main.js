@@ -15,5 +15,6 @@ $("#pennies").swipe({
   	if (direction == "up") {
 	    $(this).text("You swiped " + direction );
 	}
-  }
+  },
+  threshold:0
 });
