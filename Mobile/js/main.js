@@ -9,3 +9,11 @@ if (navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('
             setTimeout(hideURLbar, 0);
     }, false);
 }
+
+$("#pennies").swipe({
+  swipe:function(event, direction, distance, duration, fingerCount) {
+  	if (direction == "up") {
+	    $(this).text("You swiped " + direction );
+	}
+  }
+});
