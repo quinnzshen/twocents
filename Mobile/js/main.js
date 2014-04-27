@@ -9,12 +9,37 @@ if (navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('
             setTimeout(hideURLbar, 0);
     }, false);
 }
-
-$("#pennies").swipe({
-  swipe:function(event, direction, distance, duration, fingerCount) {
-  	if (direction == "up") {
-	    $(this).text("You swiped " + direction );
-	}
-  },
-  threshold:10
+$(function() {
+	startY = 0;
+	endY = 0;
+	$( "#pennies" ).draggable({
+	  axis: "y",
+	  // start: function(event) {
+	  // 	startY = event.clientY;
+	  // 	$("#pennies").draggable("option", "revert", true);
+	  // },
+	  stop: function(event) {
+	  	endY = event.clientY;
+  		$("#pennies").animate(
+	    {"margin-top": "-100%",
+		 "margin-left": "auto",
+		 "margin-right": "auto"},
+	     "slow");	
+	  }
+	})
 });
+
+
+// $("#pennies").swipe({
+//   swipe:function(event, direction, distance, duration, fingerCount) {
+//   	if (direction == "up") {
+// 	    // $(this).text("You swiped " + direction );
+// 	    console.log("yo");
+// 		$("#pennies").animate(
+//             {"margin-top": "+=-120%"},
+//             "slow");	
+// 		console.log("yo");
+// 	}
+//   },
+//   threshold:10
+// });
