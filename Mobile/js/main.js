@@ -1,3 +1,7 @@
+$(document).bind('touchmove', function(e) {
+	e.preventDefault();
+});
+
 function hideURLbar() {
 	if (window.location.hash.indexOf('#') == -1) {
 		window.scrollTo(0, 1);
@@ -9,6 +13,7 @@ if (navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('
             setTimeout(hideURLbar, 0);
     }, false);
 }
+
 $(function() {
 	startY = 0;
 	endY = 0;
@@ -28,10 +33,6 @@ $(function() {
 	  }
 	})
 });
-
-document.ontouchstart = function(e){ 
-    e.preventDefault(); 
-}
 
 // $("#pennies").swipe({
 //   swipe:function(event, direction, distance, duration, fingerCount) {
