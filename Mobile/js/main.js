@@ -29,6 +29,9 @@ $(function() {
 	})
 });
 
+document.ontouchstart = function(e){ 
+    e.preventDefault(); 
+}
 
 // $("#pennies").swipe({
 //   swipe:function(event, direction, distance, duration, fingerCount) {
