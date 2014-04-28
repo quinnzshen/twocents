@@ -26,7 +26,7 @@ $(function() {
 	  stop: function(event) {
 	  	endY = event.clientY;
   		$("#pennies").animate(
-	    {"margin-top": "-100%",
+	    {"margin-top": "-200%",
 		 "margin-left": "auto",
 		 "margin-right": "auto"},
 	     "slow");	
