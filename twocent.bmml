@@ -1,0 +1,227 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1896" measuredH="1234" mockupW="1781" mockupH="1213">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="153" y="21" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VolumeSlider" x="189" y="445" w="203" h="-1" measuredW="72" measuredH="16" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="115" y="268" w="358" h="-1" measuredW="199" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Inspirational%20Video</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::iPhone" x="653" y="21" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="615" y="273" w="358" h="-1" measuredW="201" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Make%20a%20difference%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="693" y="314" w="202" h="-1" measuredW="101" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <text>-Phone%20Number-</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::PointyButton" x="839" y="434" w="56" h="-1" measuredW="47" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::iPhone" x="1139" y="21" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Title" x="1101" y="268" w="358" h="-1" measuredW="154" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Verify%20via%20text</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="1179" y="314" w="202" h="-1" measuredW="120" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <text>-Enter%20Pin%20Number-</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::PointyButton" x="1325" y="434" w="56" h="-1" measuredW="47" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::iPhone" x="1614" y="21" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="1656" y="174" w="64" h="66" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::TextInput" x="1735" y="174" w="116" h="-1" measuredW="79" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-First%20Name-</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="1735" y="214" w="116" h="-1" measuredW="80" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-Last%20Name-</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::PointyButton" x="1656" y="255" w="195" h="-1" measuredW="175" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <size>18</size>
+        <text>Grab%20via%20Facebook%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::PointyButton" x="1795" y="434" w="56" h="-1" measuredW="47" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::iPhone" x="653" y="661" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="726" y="814" w="-1" h="-1" measuredW="136" measuredH="43" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Metrics</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::SubTitle" x="691" y="880" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Donation%20from%20you.</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="691" y="901" w="190" h="-1" measuredW="67" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%24amount</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SubTitle" x="691" y="957" w="-1" h="-1" measuredW="198" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Donations%20from%20network.</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextInput" x="691" y="978" w="190" h="-1" measuredW="67" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%24amount</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::SubTitle" x="691" y="1034" w="-1" h="-1" measuredW="206" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Donations%20from%20everyone.</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextInput" x="691" y="1055" w="190" h="-1" measuredW="67" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%24amount</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::iPhone" x="1139" y="661" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::iPhone" x="153" y="661" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="189" y="901" w="209" h="206" measuredW="200" measuredH="140" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aenean%20eu%20leo%20quam.%20Pellentesque%20ornare%20sem%20lacinia%20quam%20venenatis%20vestibulum.%20Cum%20sociis%20natoque%20penatibus%20et%20magnis%20dis%20parturient%20montes%2C%20nascetur%20ridiculus%20mus.%20Cras%20justo%20odio%2C%20dapibus%20ac%20facilisis%20in%2C%20egestas%20eget%20quam.%20Donec%20ullamcorper%20nulla%20non%20metus%20auctor%20fringilla.%20Aenean%20lacinia%20bibendum%20nulla%20sed%20consectetur.%20Vestibulum%20id%20ligula%20porta%20felis%20euismod%20semper.%20Cras%20mattis%20consectetur%20purus%20sit%20amet%20fermentum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Title" x="189" y="814" w="-1" h="-1" measuredW="130" measuredH="43" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stories</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::SubTitle" x="189" y="855" w="-1" h="-1" measuredW="199" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Water%20Project</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Arrow" x="465" y="908" w="150" h="10" measuredW="150" measuredH="100" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <rightArrow>true</rightArrow>
+        <text>Swipe%20Left</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Arrow" x="964" y="909" w="150" h="10" measuredW="150" measuredH="100" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <rightArrow>true</rightArrow>
+        <text>Swipe%20Right</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Title" x="1179" y="814" w="-1" h="-1" measuredW="198" measuredH="63" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>Spread</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::SubTitle" x="1199" y="876" w="-1" h="-1" measuredW="163" measuredH="43" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>the%20word%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::PointyButton" x="1179" y="968" w="202" h="-1" measuredW="134" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>From%20your%20contacts</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::PointyButton" x="1179" y="1006" w="202" h="-1" measuredW="136" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>From%20your%20facebook</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::iPhone" x="1614" y="661" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>topBlueBottom</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::IconLabel" x="1731" y="1044" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::IconLabel" x="1720" y="814" w="-1" h="-1" measuredW="68" measuredH="63" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Your%20friend%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Arrow" x="1727" y="901" w="49" h="128" measuredW="150" measuredH="100" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <curvature>1</curvature>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text>Swipe%20coins%20up%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
