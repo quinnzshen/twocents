@@ -87,7 +87,6 @@ textarea {
 
 #pennies {
   width:50%;
-  height:100%;
 /*  margin-top: 100%;*/
 /*  margin-left: auto;
   margin-right: auto;*/
@@ -98,7 +97,7 @@ textarea {
 }
 
 #penny-container {
-  width: 100%
+  width: 100%;
   height: 100%;
 }
 
